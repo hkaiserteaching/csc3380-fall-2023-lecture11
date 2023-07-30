@@ -2,4 +2,4 @@
 
 See here for more information about [Lecture 11][lecture11]
 
-[lecture11]: https://hkaiserteaching.github.io/fall2023/csc3380/course/lecture11.html
+[lecture11]: https://teaching.hkaiser.org/fall2023/csc3380/course/lecture11.html
